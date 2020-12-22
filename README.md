@@ -3,7 +3,7 @@
 ### This project is to a script that downloads tweets data on a specific search topic using the standard search API. The script should contain the following functions: 
 #### 1. scrape_tweets() that has the following parameters:
 * Search topic (#ArtetaOut)
-* The number of tweets to download per request (1500)
+* The number of tweets to download per request (200)
 * The number of requests
 
 And returns a dataframe.
