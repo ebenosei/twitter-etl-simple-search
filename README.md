@@ -28,4 +28,5 @@ The following attributes of the tweets should be extracted:
 * Description
 * Followers count
 
-The topic chosen here is '#ArtetaOut', a hashtag calling for the dismissal of Mikel Arteta, the manager of Arsenal Football Club
+
+### The topic chosen here is '#ArtetaOut', a hashtag calling for the dismissal of Mikel Arteta, the manager of Arsenal Football Club
